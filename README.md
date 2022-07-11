@@ -1,5 +1,6 @@
-# Cartaz de filme
+<h1 align="center"> Cartaz de filme animado </h1>
 
-Com HTML e CSS
+![screenshot](./IMG/cartaz.png "screenshot")
 
-<img src="./IMG/cartaz.png" alt="logo">
+## License
+Este projeto está licenciado sob a MIT License.
