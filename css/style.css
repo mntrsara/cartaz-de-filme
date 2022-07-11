@@ -11,7 +11,7 @@
     transform:translate(-50%,-50%);
     width:320px;
     height:430px;
-    background:url(./IMG/filme.png) center / cover;
+    background:url(../IMG/filme.png) center / cover;
     box-shadow:0 7px 14px rgba(0,0,0,.3);
 }
 
