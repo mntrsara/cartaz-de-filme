@@ -1,4 +1,4 @@
-<h1 align="center"> Cartaz de filme animado </h1>
+# Cartaz de filme animado
 
 ![screenshot](./IMG/cartaz.png "screenshot")
 
