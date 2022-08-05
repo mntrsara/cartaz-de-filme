@@ -1,6 +1,6 @@
 # Cartaz de filme animado
 
-![screenshot](./IMG/cartaz.png "screenshot")
+- [ Demonstração ](https://mntrsara.github.io/cartaz-de-filme/)
 
 ## License
 Este projeto está licenciado sob a MIT License.
